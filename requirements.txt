@@ -1,0 +1,5 @@
+pandas
+numpy
+openpyxl
+jupyter
+esco-skill-extractor==0.1.18
